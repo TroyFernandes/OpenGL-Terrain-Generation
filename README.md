@@ -3,6 +3,9 @@ Program written in C and utilizes OpenGL to allow the user to create complex smo
 
 To compile the program, download and open with Visual Studio. Visual Studio 2017 RC was used to create the program. You can press the F1 key when the program is running to get a help screen
 
+![Demo](https://github.com/TroyFernandes/OpenGL-Terrain-Generation/blob/master/Demo%20Image/demo.JPG)
+
+
 # Robot Control
    1. Shoulder Yaw: Rotates the base of the robot around the world Y-Axis
    2. Shoulder Pitch: Shoulder of the robot can be raised or lowered
