@@ -1,4 +1,5 @@
-# Robot Kinematics with Interactive Terrain Generation
+# Robot Kinematics with Interactive Terrain Generation ![](https://raw.githubusercontent.com/cprogrammer1994/EasyBadges/master/Examples/OpenGL-44.png)
+
 Program written in C and utilizes OpenGL to allow the user to create complex smooth holes on a quadrilateral mesh using an interactive robot. Kinematic calculations are used as a simple form of collision detection to decide where to make the holes.
 
 To compile the program, download and open with Visual Studio. Visual Studio 2017 RC was used to create the program. You can press the F1 key when the program is running to get a help screen
