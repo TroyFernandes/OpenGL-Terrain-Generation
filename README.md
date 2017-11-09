@@ -1,4 +1,5 @@
-# Robot Kinematics with Interactive Terrain Generation ![](https://raw.githubusercontent.com/cprogrammer1994/EasyBadges/master/Examples/OpenGL-44.png)
+# Robot Kinematics with Interactive Terrain Generation 
+![](https://raw.githubusercontent.com/cprogrammer1994/EasyBadges/master/Examples/OpenGL-44.png)
 
 Program written in C and utilizes OpenGL to allow the user to create complex smooth holes on a quadrilateral mesh using an interactive robot. Kinematic calculations are used as a simple form of collision detection to decide where to make the holes.
 
